@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueGreenFragment</string>
+
+    <string name="blue">This is the blue fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="green">This is the green fragment</string>
+</resources>
